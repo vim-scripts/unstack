@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4677
+
+Parse stack traces or quickfix entries and open the result in vim splits!
+
+Go from this: http://i.imgur.com/DgXSAkq.png
+To this: http://i.imgur.com/Q31wohX.png
+
+Follow the development at https://github.com/mattboehm/unstack
+
+Much more information on the github page and in the documentation.
